@@ -3,4 +3,10 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="bakgrund">#27AE60</color>
+    <color name="zindex1">#229954</color>
+    <color name="zindex2">#1E8449</color>
+    <color name="zindex3">#196F3D</color>
+    <color name="morkaste">#145A32</color>
+    <color name="black">#000000</color>
 </resources>
